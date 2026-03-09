@@ -50,7 +50,3 @@ The system detects multiple cyber attacks including:
 ## Project Objective
 The main objective of this project is to improve cyber attack detection by using GANs to generate synthetic attack data and enhance the training process of the intrusion detection model. The project also provides a visualization dashboard to analyze network traffic and attack patterns effectively.
 
-## Author
-Ambika Korala  
-Computer Science and Engineering (Cybersecurity)  
-Malla Reddy Engineering College for Women
